@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 require_once( 'mail/MailSend.php' );
 require_once( 'mail/MailFatalError.php' );
 require_once( 'mail/MailTest.php' );
@@ -9,7 +9,7 @@ require_once( 'mail/MailTest.php' );
  * 用途に応じてメール送信クラスを生成します。
  *
  * @access public
- * @author K funakubo
+ * @author
  * @copyright License Academy Co.Ltd
  * @version 1.00
  * @since 2018/06/20

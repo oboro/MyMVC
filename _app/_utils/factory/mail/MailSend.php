@@ -1,10 +1,10 @@
-<?php
+﻿<?php
 require_once( __DIR__ . '/../../vendor/autoload.php' );
 
 /**
  * メール送信クラスの抽象クラス
  * @access public
- * @author K funakubo
+ * @author
  * @copyright License Academy Co.Ltd
  * @version 2.00
  * @since 2018/06/21

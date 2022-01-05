@@ -1,8 +1,8 @@
-<?php
+﻿<?php
 /**
  * FATAL ERROR発生時にエラーメールをサイト担当者に送付
  * @access public
- * @author K funakubo
+ * @author
  * @copyright License Academy Co.Ltd
  * @version 1.00
  * @since 2018/06/20
