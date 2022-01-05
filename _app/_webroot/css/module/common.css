@@ -1,0 +1,71 @@
+@charset "utf-8";
+
+nav li{
+  list-style-type: none;
+}
+.attention{
+	padding: 0.5rem;
+	color: #C00;
+	}
+.attention.processEnd{
+	padding: 0.5rem;
+	border: 2px solid #F99;
+	background: #ffecec;
+	}
+.btnBox{
+	margin: 1rem;
+	padding: 0.5rem;
+	text-align: center;
+	}
+h1.basic{
+		}
+h2.basic{
+}
+table.basic{
+	width: 100%;
+	border-collapse: collapse;
+	border-top: 1px solid #bbb;
+	border-left: 1px solid #bbb;
+	}
+table.basic	caption{
+	text-align: left;
+	font-weight: bold;
+	}
+table.basic th,
+table.basic td{
+	padding: 6px 6px 3px 6px;
+	border-right: 1px solid #bbb;
+	border-bottom: 1px solid #bbb;
+	}
+table.basic th{
+	background: #ddd;
+	text-align: left;
+	color: #666;
+	}
+
+table.basicForm{
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  margin: .75rem 0;
+  padding: 0;
+}
+table.basicForm th,
+table.basicForm td{
+  padding: .5rem; 
+  border: 1px solid #ccc;
+}
+table.basicForm th{
+  text-align: left;
+}
+table.basicForm th.required:after{
+  content: " *必須";
+  color: #FF0000;
+  font-size: .8em;
+}
+table.basicForm input,
+table.basicForm label,
+table.basicForm textarea,
+table.basicForm select{
+	margin: 3px;
+	vertical-align: middle;
+	}

@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+
+ul#make_base ol, ul#disp_base ol
+{
+	padding: 0;
+}
+
+ul#make_base li, ul#new li, ul#disp_base li
+{
+	position: relative;
+	list-style-type: none!important;/*ポチ消す*/
+	padding: 0.5em 0.5em 0.5em 0.5em;
+	margin-bottom: 5px;
+	line-height: 1.5;
+	background: #dbebf8;
+	vertical-align: middle;
+	color: #505050;
+	border-radius: 15px 15px 15px 15px; /*左側の角丸く*/
+}
+
+ul#make_base div
+{
+	width: 520px;
+	display: inline-block;
+}
+
+#submit
+{
+	visibility: hidden;
+}
