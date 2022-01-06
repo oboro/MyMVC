@@ -3,7 +3,6 @@
  * ルーティング設定クラス
  * @access public
  * @author
- * @copyright License Academy Co.Ltd
  * @version 1.00
  * @since 2012/07/24
  */
