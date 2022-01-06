@@ -2,8 +2,6 @@
 /**
  * モデル クラス
  * @access public
- * @author K funakubo
- * @copyright License Academy Co.Ltd
  * @version 1.00
  * @since 2018/06/19
  */
