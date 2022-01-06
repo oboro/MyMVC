@@ -2,7 +2,6 @@
 
 /**
  * アプリケーション共通で使用するユーティリティ関数群を記述します。
- * @copyright License Academy Co.Ltd
  * @version 1.00
  */
 
