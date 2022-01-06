@@ -2,7 +2,6 @@
 /**
  * コントローラ サンプル機能実装ページ
  * @access public
- * @copyright License Academy Co.Ltd
  * @version 1.00
  * @author ISHIGURO Kei
  * 2019/03/20
