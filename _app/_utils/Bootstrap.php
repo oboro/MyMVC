@@ -3,7 +3,6 @@
  * アプリケーション起動クラス
  * @access public
  * @author ISHIGURO Kei
- * @copyright License Academy Co.Ltd
  * @version 1.00
  * @since 2012/07/23
  */
