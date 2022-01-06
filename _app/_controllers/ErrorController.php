@@ -2,8 +2,7 @@
 /**
  * 学科紹介　コントローラ
  * @access public
- * @author K funakubo
- * @copyright License Academy Co.Ltd
+ * @author
  * @version 1.00
  * @since 2018/08/13
  */
